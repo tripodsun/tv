@@ -1,3 +1,6 @@
+直播,#genre#
+英甲,http://play.shzpkj.top/live/stream4096.m3u8?txSecret=a3e906557e4d19c05e03d1259b3dd906&txTime=62938AD2
+
 体育,#genre#
 上海五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 上海五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
